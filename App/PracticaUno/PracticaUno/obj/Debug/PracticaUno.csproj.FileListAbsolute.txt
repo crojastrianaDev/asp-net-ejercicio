@@ -1,0 +1,7 @@
+D:\Alejo\8 Semestre\Web\2\Ejercicio\APP.net\App\PracticaUno\PracticaUno\bin\PracticaUno.dll.config
+D:\Alejo\8 Semestre\Web\2\Ejercicio\APP.net\App\PracticaUno\PracticaUno\bin\PracticaUno.dll
+D:\Alejo\8 Semestre\Web\2\Ejercicio\APP.net\App\PracticaUno\PracticaUno\bin\PracticaUno.pdb
+D:\Alejo\8 Semestre\Web\2\Ejercicio\APP.net\App\PracticaUno\PracticaUno\obj\Debug\PracticaUno.csprojAssemblyReference.cache
+D:\Alejo\8 Semestre\Web\2\Ejercicio\APP.net\App\PracticaUno\PracticaUno\obj\Debug\PracticaUno.csproj.CoreCompileInputs.cache
+D:\Alejo\8 Semestre\Web\2\Ejercicio\APP.net\App\PracticaUno\PracticaUno\obj\Debug\PracticaUno.dll
+D:\Alejo\8 Semestre\Web\2\Ejercicio\APP.net\App\PracticaUno\PracticaUno\obj\Debug\PracticaUno.pdb
